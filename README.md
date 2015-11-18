@@ -3,4 +3,4 @@
 ### tmux.conf
 
 ### 示例截图  
-![](tmux.conf)
+![](tmux.png)
